@@ -1,0 +1,8 @@
+enum DriverState{
+  OFFLINE,
+  ONLINE,
+  REQUEST_RECEIVED,
+  ACCEPTED,
+  GOING_TO_PICKUP,
+  ON_TRIP,
+}
